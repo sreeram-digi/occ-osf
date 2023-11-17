@@ -1,0 +1,29 @@
+{
+  "layout": [
+    {
+      "components": [
+        "_HelloWorld"
+      ],
+      "cssClass": "",
+      "width": 12,
+      "type": "main"
+    }
+  ],
+  "settings": {
+    "pageDisplayName": {
+      "en": {
+        "pageDisplayName": "Hello World - Checkout Page"
+      }
+    }
+  },
+  "defaultPage": true,
+  "address": "checkout",
+  "allowCustomAddress": true,
+  "title": "Hello World - Checkout Page",
+  "shortName": "checkout",
+  "pageTypeDisplayName": {
+    "en": {
+      "pageTypeDisplayName": "checkout"
+    }
+  }
+}

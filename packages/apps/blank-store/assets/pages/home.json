@@ -1,0 +1,50 @@
+{
+  "layout": [
+    {
+      "components": [
+        "Image",
+        "Logo"
+      ],
+      "width": 6,
+      "type": "header"
+    },
+    {
+      "components": [
+        "_TestWorld"
+      ],
+      "width": 6,
+      "type": "header"
+    },
+    {
+      "components": [
+        "_HelloWorld"
+      ],
+      "cssClass": "",
+      "width": 12,
+      "type": "main"
+    },
+    {
+      "components": [
+        
+      ],
+      "width": 12,
+      "type": "footer"
+    }
+  ],
+  "settings": {
+    "pageDisplayName": {
+      "en": {
+        "pageDisplayName": "Hello World - Homepage"
+      }
+    }
+  },
+  "defaultPage": true,
+  "address": "home",
+  "title": "Hello World - Homepage",
+  "shortName": "home",
+  "pageTypeDisplayName": {
+    "en": {
+      "pageTypeDisplayName": "home"
+    }
+  }
+}
